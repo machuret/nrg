@@ -1,0 +1,15 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
+
+# Logs / deps (none expected for this static site, but just in case)
+node_modules/
+npm-debug.log*
+*.log
+
+# image-slot.js writes this sidecar when used inside the design tool
+.image-slots.state.json
