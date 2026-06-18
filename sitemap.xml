@@ -7,4 +7,5 @@
   <url><loc>https://www.nrgfinance.com.au/investment.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.nrgfinance.com.au/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
   <url><loc>https://www.nrgfinance.com.au/contact.html</loc><changefreq>yearly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://www.nrgfinance.com.au/privacy.html</loc><changefreq>yearly</changefreq><priority>0.3</priority></url>
 </urlset>
