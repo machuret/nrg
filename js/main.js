@@ -137,7 +137,7 @@
           'Email: ' + (data.get('email') || '') + '\n' +
           'Help with: ' + (data.get('topic') || '') + '\n\n' +
           (data.get('message') || '');
-        var href = 'mailto:hello@nrgfinance.com.au?subject=' +
+        var href = 'mailto:admin@nrgwealthservices.com.au?subject=' +
           encodeURIComponent('Website enquiry — ' + (data.get('topic') || 'General')) +
           '&body=' + encodeURIComponent(body);
         window.location.href = href;
