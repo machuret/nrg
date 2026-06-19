@@ -1,31 +1,31 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#221F1B"/>
-      <stop offset="0.6" stop-color="#2B2723"/>
-      <stop offset="1" stop-color="#8F4A2B"/>
+      <stop offset="0" stop-color="#1A1A1A"/>
+      <stop offset="0.6" stop-color="#232323"/>
+      <stop offset="1" stop-color="#137A55"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="630" fill="url(#bg)"/>
-  <g fill="none" stroke="#B5613A" stroke-width="2" opacity="0.35">
+  <g fill="none" stroke="#1A9D6E" stroke-width="2" opacity="0.35">
     <path d="M80 470 C 300 360, 520 520, 760 400 S 1080 300, 1140 360"/>
-    <circle cx="760" cy="400" r="7" fill="#D98B5F" stroke="none"/>
-    <circle cx="200" cy="430" r="7" fill="#D98B5F" stroke="none"/>
+    <circle cx="760" cy="400" r="7" fill="#38C794" stroke="none"/>
+    <circle cx="200" cy="430" r="7" fill="#38C794" stroke="none"/>
   </g>
-  <g font-family="Bebas Neue, Arial Narrow, sans-serif" fill="#FAF6EF">
-    <rect x="80" y="80" width="64" height="64" rx="14" fill="#B5613A"/>
+  <g font-family="Bebas Neue, Arial Narrow, sans-serif" fill="#F3F4F4">
+    <rect x="80" y="80" width="64" height="64" rx="14" fill="#1A9D6E"/>
     <text x="112" y="127" text-anchor="middle" font-size="44" fill="#fff">N</text>
     <text x="164" y="125" font-size="40" letter-spacing="3">NRG FINANCE</text>
     <text x="80" y="290" font-size="92" letter-spacing="1">Your home loan</text>
-    <text x="80" y="380" font-size="92" letter-spacing="1">deserves a <tspan fill="#D98B5F">second look.</tspan></text>
+    <text x="80" y="380" font-size="92" letter-spacing="1">deserves a <tspan fill="#38C794">second look.</tspan></text>
   </g>
-  <text x="80" y="470" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="28" fill="#C9BFB0">
+  <text x="80" y="470" font-family="'Plus Jakarta Sans', Arial, sans-serif" font-size="28" fill="#B6BABA">
     Straight-talking mortgage broking — Newcastle to Sydney.
   </text>
   <g font-family="'Plus Jakarta Sans', Arial, sans-serif">
-    <text x="80" y="560" font-size="22" font-weight="700" fill="#FAF6EF">★ 4.9 / 5</text>
-    <text x="200" y="560" font-size="22" fill="#A89E92">127 Google reviews</text>
-    <text x="470" y="560" font-size="22" font-weight="700" fill="#FAF6EF">40+ lenders</text>
-    <text x="700" y="560" font-size="22" font-weight="700" fill="#FAF6EF">20+ years</text>
+    <text x="80" y="560" font-size="22" font-weight="700" fill="#F3F4F4">★ 4.9 / 5</text>
+    <text x="200" y="560" font-size="22" fill="#A0A4A4">127 Google reviews</text>
+    <text x="470" y="560" font-size="22" font-weight="700" fill="#F3F4F4">40+ lenders</text>
+    <text x="700" y="560" font-size="22" font-weight="700" fill="#F3F4F4">20+ years</text>
   </g>
 </svg>

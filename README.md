@@ -2,9 +2,9 @@
 
 A fast, static, mobile-first website for **NRG Finance** — a mortgage and finance
 broker serving the **Newcastle → Sydney corridor**. Built to the
-[redesign brief](docs/redesign-brief.md): confident, clean and warm; charcoal +
-copper (no blue); calculator and social proof above the fold; copy that reads
-like a conversation, not a brochure.
+[redesign brief](docs/redesign-brief.md): confident, clean and local; brand
+**green, grey and black** palette; calculator and social proof above the fold;
+copy that reads like a conversation, not a brochure.
 
 No framework, no build step, no CDN runtime — just HTML, one CSS file and one
 small JS file. It loads fast and deploys anywhere static.
@@ -43,9 +43,11 @@ against the brief's hard requirements (sub-2s mobile load, real SEO/schema
 markup, "no bloat").
 
 So this repo is a faithful translation of that mockup into a **production static
-site**: same palette (`#221F1B` charcoal + `#B5613A` copper), same fonts (Bebas
-Neue / Plus Jakarta Sans), the **exact** calculator formulas — re-expressed as
-clean, reusable CSS/JS — and extended to all seven pages the brief calls for.
+site**, in the NRG brand palette (green `#1A9D6E` + grey + near-black `#1A1A1A`),
+with the same fonts (Bebas Neue / Plus Jakarta Sans) and the **exact** calculator
+formulas — re-expressed as clean, reusable CSS/JS — and extended to all seven
+pages the brief calls for. (Token names like `--copper` are legacy and now hold
+the brand green.)
 The original mockup and its runtime are preserved under `design-source/` for
 reference.
 
